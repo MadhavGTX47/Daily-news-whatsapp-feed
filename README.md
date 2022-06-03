@@ -11,3 +11,7 @@ Enter your whatsapp details to schedule it
 `time`
 - run app
 `python main.py`
+
+References:-
+
+https://realpython.com/python-web-scraping-practical-introduction/
