@@ -15,3 +15,4 @@ Enter your whatsapp details to schedule it
 References:-
 
 https://realpython.com/python-web-scraping-practical-introduction/
+https://dev.to/code_jedi/scrape-news-headlines-with-python-1go6
